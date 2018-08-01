@@ -1,0 +1,10 @@
+F:\Xingyue\Git\DotNetPy\CsConsole\obj\Debug\CsConsole.csproj.CoreCompileInputs.cache
+F:\Xingyue\Git\DotNetPy\CsConsole\bin\Debug\CsConsole.exe.config
+F:\Xingyue\Git\DotNetPy\CsConsole\bin\Debug\CsConsole.exe
+F:\Xingyue\Git\DotNetPy\CsConsole\bin\Debug\CsConsole.pdb
+F:\Xingyue\Git\DotNetPy\CsConsole\obj\Debug\CsConsole.csproj.CopyComplete
+F:\Xingyue\Git\DotNetPy\CsConsole\obj\Debug\CsConsole.exe
+F:\Xingyue\Git\DotNetPy\CsConsole\obj\Debug\CsConsole.pdb
+F:\Xingyue\Git\DotNetPy\CsConsole\bin\Debug\DotNetPy.pdb
+F:\Xingyue\Git\DotNetPy\CsConsole\bin\Debug\DotNetPy.dll
+F:\Xingyue\Git\DotNetPy\CsConsole\obj\Debug\CsConsole.csprojAssemblyReference.cache

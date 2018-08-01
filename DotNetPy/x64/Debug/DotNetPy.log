@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  AssemblyInfo.cpp
+  PyEngine.cpp
+f:\xingyue\git\dotnetpy\dotnetpy\pyengine.cpp(87): warning C4965: 整数 0 的隐式装箱；请使用 nullptr 或显式强制转换
+f:\xingyue\git\dotnetpy\dotnetpy\pyengine.cpp(90): warning C4965: 整数 0 的隐式装箱；请使用 nullptr 或显式强制转换
+f:\xingyue\git\dotnetpy\dotnetpy\pyengine.cpp(93): warning C4965: 整数 0 的隐式装箱；请使用 nullptr 或显式强制转换
+f:\xingyue\git\dotnetpy\dotnetpy\pyengine.cpp(124): warning C4965: 整数 0 的隐式装箱；请使用 nullptr 或显式强制转换
+f:\xingyue\git\dotnetpy\dotnetpy\pyengine.cpp(138): warning C4965: 整数 0 的隐式装箱；请使用 nullptr 或显式强制转换
+  正在生成代码...
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  DotNetPy.vcxproj -> F:\Xingyue\Git\DotNetPy\x64\Debug\DotNetPy.dll
